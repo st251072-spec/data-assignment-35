@@ -67,8 +67,8 @@
 1. 横軸:学習時間、縦軸:テスト得点 → `output/scatter_study.png`
 2. 横軸:睡眠時間、縦軸:テスト得点 → `output/scatter_sleep.png`
 
-![散布図(学習時間)](output/scatter_study.png)
-![散布図(睡眠時間)](output/scatter_sleep.png)
+![散布図(学習時間)](scatter_study.png)
+![散布図(睡眠時間)](scatter_sleep.png)
 
 さらに、それぞれの**相関係数**を求めて記入してください。
 
